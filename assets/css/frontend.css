@@ -1,0 +1,13 @@
+.act-message {
+    padding: 15px;
+    background: #fff;
+    border-left: 5px solid #6a0dad;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-bottom: 10px;
+}
+
+.act-post-views {
+    font-size: 14px;
+    color: #555;
+}

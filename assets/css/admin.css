@@ -1,0 +1,16 @@
+.act-admin h1 {
+    color: #6a0dad;
+    margin-bottom: 20px;
+}
+
+.act-form input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.act-form input:focus {
+    border-color: #6a0dad;
+    outline: none;
+    box-shadow: 0 0 5px rgba(106, 13, 173, 0.2);
+}

@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Toolkit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+
+#: admin/views/settings-page.php
+msgid "Advanced Custom Toolkit"
+msgstr ""
+
+#: admin/views/settings-page.php
+msgid "Custom Message"
+msgstr ""
+
+#: admin/views/settings-page.php
+msgid "Save Settings"
+msgstr ""
+
+#: public/class-post-views.php
+msgid "Views"
+msgstr ""
