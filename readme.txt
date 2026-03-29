@@ -46,11 +46,19 @@ This plugin allows users to display custom messages via shortcode, manage settin
 2. Shortcode Output on Frontend
 3. Post View Tracking Display
 4. Network Tab Showing AJAX Request
+## 📸 Screenshots
 
-admin-panel.jpeg
-shortcode-output.jpeg
-views-tracking.jpeg
-code-structure.jpeg
+### Admin Panel
+![Admin Panel](screenshots/admin-panel.jpeg)
+
+### Shortcode Output
+![Shortcode](screenshots/shortcode-output.jpeg)
+
+### View Tracking
+![Views](screenshots/views-tracking.jpeg)
+
+### Code Structure
+![Structure](screenshots/code-structure.jpeg)
 
 == Technical Details ==
 
